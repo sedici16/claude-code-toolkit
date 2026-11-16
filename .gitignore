@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+examples/demo.db
+.claude/settings.local.json
